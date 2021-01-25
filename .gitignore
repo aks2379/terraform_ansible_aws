@@ -1,0 +1,9 @@
+**/logs
+**/pem
+*.pem
+*.hcl*
+*.tfstate
+*.tfstate*
+*.backup
+*.ini
+**/.terraform/
